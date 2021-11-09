@@ -3,6 +3,7 @@ from flask import  request
 from flask import render_template
 import urllib.request
 from bs4 import BeautifulSoup
+import pandas as pd
 
 
 @app.route('/')
@@ -17,7 +18,7 @@ def track_date():
 
     main(track, date)
     
-    return render_template('base.html')
+    return render_template('out.html')
 
     
 
@@ -107,7 +108,12 @@ def find_urls(track, date):
     return links
 
 
+def html_convertion():
 
+    df = pd.read_csv('out.csv', error_bad_lines=False)
+    df.to_html('webscraper/templates/out.html')
+
+    
 
 def main(track, date):
     
@@ -154,3 +160,7 @@ def main(track, date):
         f.write('\n')
         f.write('\n')
         f.write('\n')
+
+    html_convertion()
+    #conver csv to htmnl
+

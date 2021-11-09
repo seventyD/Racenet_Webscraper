@@ -8,7 +8,7 @@
     
     <script>
     $(function() {
-      $('#CSVTable').CSVToTable('out.csv');
+      $('#CSVTable').CSVToTable("{{ url_for('extras',filename='out.csv') }}");
     });
     </script>
     
