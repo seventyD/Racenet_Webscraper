@@ -18,7 +18,7 @@ def track_date():
 
     main(track, date)
     
-    return render_template('out.html')
+    return render_template('base.html')
 
     
 
@@ -128,9 +128,9 @@ def main(track, date):
 
 
     races = find_urls(track, date)
-
+    winners = []
     for race in races:
-        filename = 'out.csv'
+        filename = 'out.txt'
         f = open(filename, 'a')
         f.write("Race: " + race[-1] + "," + race + "," + "\n")
 
@@ -160,7 +160,9 @@ def main(track, date):
         f.write('\n')
         f.write('\n')
         f.write('\n')
-
-    html_convertion()
+        winners.append([best_stats[0], str(best_stats[1])])
+        print(winners)
+    return winners
+    #html_convertion()
     #conver csv to htmnl
 

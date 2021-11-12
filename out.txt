@@ -1,0 +1,889 @@
+Race: 1,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/crime-stoppers-ipswich-qtis-three-year-old-maiden-handicap-race-1,
+Horse, Rating, Win rate, Avg 
+Buin R,0,0.0,0.0
+Eureka B,0,0.0,0.0
+Rip Whee,0,0.0,0.0
+Chief Ar,0,2.5,1.25
+De,0,3.3333333333333335,1.6666666666666667
+Ready For Anyth,0,0.0,0.0
+Chatty L,0,1.0,0.5
+Da Party ,0,1.0,0.5
+Ishouldbesolu,0,0.0,0.0
+
+Winner: De, 
+Points: 1.6666666666666667
+
+
+Race: 2,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/surreal-signs-maiden-plate-race-2,
+Horse, Rating, Win rate, Avg 
+Anar,0,0.25,0.125
+Doctor J,0,5.0,2.5
+Kabal,0,2.357142857142857,1.1785714285714286
+Mishani Van,0,0.8125,0.40625
+Off R,0,1.0,0.5
+The Power Of ,0,1.9166666666666667,0.9583333333333334
+Wayne's Gam,0,0.0,0.0
+Bean A Wh,0,0.25,0.125
+Dot,0,0.0,0.0
+ My Oddette
+        
+          (N,0,5.5,2.75
+ Da Party ,0,1.0,0.5
+
+Winner:  My Oddette
+        
+          (N, 
+Points: 2.75
+
+
+Race: 3,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/river-949fm-class-3-handicap-race-3,
+Horse, Rating, Win rate, Avg 
+Frederick The D,70,21.90909090909091,45.95454545454545
+Joy Too ,70,62.0,66.0
+Better Than B,68,20.866666666666667,44.43333333333334
+Copper Sun,63,33.333333333333336,48.16666666666667
+Gl,63,17.1,40.05
+Uno A,65,15.428571428571429,40.214285714285715
+Drat,58,13.875,35.9375
+
+Winner: Joy Too , 
+Points: 66.0
+
+
+Race: 4,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/barn-family-restaurant-class-5-plate-race-4,
+Horse, Rating, Win rate, Avg 
+There You ,73,22.5,47.75
+Dalt,74,29.533333333333335,51.766666666666666
+Dragon M,74,27.333333333333332,50.666666666666664
+Zoulou Dan,69,15.216216216216216,42.108108108108105
+Astro Boy ,72,44.42857142857143,58.214285714285715
+Mccovey C,72,33.2,52.6
+Joy Too ,70,62.0,66.0
+
+Winner: Joy Too , 
+Points: 66.0
+
+
+Race: 5,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/sunday-brunch-at-the-barn-class-2-handicap-race-5,
+Horse, Rating, Win rate, Avg 
+Acca,62,12.3,37.15
+Jakkalberry Finn
+        
+          (N,61,27.75,44.375
+L,59,16.666666666666668,37.833333333333336
+Northern Woods
+        
+          (N,57,7.75,32.375
+Nube Viaj,57,15.071428571428571,36.035714285714285
+Dream S,58,11.666666666666666,34.833333333333336
+Inside Informat,53,9.26923076923077,31.134615384615387
+Birchip T,51,5.421052631578948,28.210526315789473
+
+Winner: Jakkalberry Finn
+        
+          (N, 
+Points: 44.375
+
+
+Race: 6,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/xmas-parties-at-ieec-class-1-plate-race-6,
+Horse, Rating, Win rate, Avg 
+Burgundy Ru,56,12.222222222222221,34.111111111111114
+Private Chee,65,16.0,40.5
+Beating D,48,5.380952380952381,26.69047619047619
+Collateral ,55,12.625,33.8125
+Rations
+        
+          (N,61,17.142857142857142,39.07142857142857
+Sienna's Aw,54,7.294117647058823,30.647058823529413
+Sun,60,15.125,37.5625
+Swahili ,56,10.090909090909092,33.04545454545455
+ All Too Qu,59,33.333333333333336,46.16666666666667
+ Colleagues
+        
+          (N,0,0.0,0.0
+Arriverderci R,51,4.333333333333333,27.666666666666668
+
+Winner:  All Too Qu, 
+Points: 46.16666666666667
+
+
+Race: 7,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/wwwieeccomau-benchmark-72-handicap-race-7,
+Horse, Rating, Win rate, Avg 
+Getyourgre,77,28.38888888888889,52.69444444444444
+Raging P,75,19.77777777777778,47.388888888888886
+Octav,70,20.451612903225808,45.225806451612904
+Arthur In Cha,69,19.636363636363637,44.31818181818182
+Maddi,70,21.09375,45.546875
+Spokes,66,16.36842105263158,41.18421052631579
+Toujours L'am,69,984.0645161290323,526.5322580645161
+Blazing ,68,22.357142857142858,45.17857142857143
+ Why We Dr,66,42.857142857142854,54.42857142857143
+ In Great ,58,9.375,33.6875
+Xant,72,21.6,46.8
+
+Winner: Toujours L'am, 
+Points: 526.5322580645161
+
+
+Race: 1,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/crime-stoppers-ipswich-qtis-three-year-old-maiden-handicap-race-1,
+Horse, Rating, Win rate, Avg 
+Buin R,0,0.0,0.0
+Eureka B,0,0.0,0.0
+Rip Whee,0,0.0,0.0
+Chief Ar,0,2.5,1.25
+De,0,3.3333333333333335,1.6666666666666667
+Ready For Anyth,0,0.0,0.0
+Chatty L,0,1.0,0.5
+Da Party ,0,1.0,0.5
+Ishouldbesolu,0,0.0,0.0
+
+Winner: De, 
+Points: 1.6666666666666667
+
+
+Race: 2,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/surreal-signs-maiden-plate-race-2,
+Horse, Rating, Win rate, Avg 
+Anar,0,0.25,0.125
+Doctor J,0,5.0,2.5
+Kabal,0,2.357142857142857,1.1785714285714286
+Mishani Van,0,0.8125,0.40625
+Off R,0,1.0,0.5
+The Power Of ,0,1.9166666666666667,0.9583333333333334
+Wayne's Gam,0,0.0,0.0
+Bean A Wh,0,0.25,0.125
+Dot,0,0.0,0.0
+ My Oddette
+        
+          (N,0,5.5,2.75
+ Da Party ,0,1.0,0.5
+
+Winner:  My Oddette
+        
+          (N, 
+Points: 2.75
+
+
+Race: 3,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/river-949fm-class-3-handicap-race-3,
+Horse, Rating, Win rate, Avg 
+Frederick The D,70,21.90909090909091,45.95454545454545
+Joy Too ,70,62.0,66.0
+Better Than B,68,20.866666666666667,44.43333333333334
+Copper Sun,63,33.333333333333336,48.16666666666667
+Gl,63,17.1,40.05
+Uno A,65,15.428571428571429,40.214285714285715
+Drat,58,13.875,35.9375
+
+Winner: Joy Too , 
+Points: 66.0
+
+
+Race: 4,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/barn-family-restaurant-class-5-plate-race-4,
+Horse, Rating, Win rate, Avg 
+There You ,73,22.5,47.75
+Dalt,74,29.533333333333335,51.766666666666666
+Dragon M,74,27.333333333333332,50.666666666666664
+Zoulou Dan,69,15.216216216216216,42.108108108108105
+Astro Boy ,72,44.42857142857143,58.214285714285715
+Mccovey C,72,33.2,52.6
+Joy Too ,70,62.0,66.0
+
+Winner: Joy Too , 
+Points: 66.0
+
+
+Race: 5,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/sunday-brunch-at-the-barn-class-2-handicap-race-5,
+Horse, Rating, Win rate, Avg 
+Acca,62,12.3,37.15
+Jakkalberry Finn
+        
+          (N,61,27.75,44.375
+L,59,16.666666666666668,37.833333333333336
+Northern Woods
+        
+          (N,57,7.75,32.375
+Nube Viaj,57,15.071428571428571,36.035714285714285
+Dream S,58,11.666666666666666,34.833333333333336
+Inside Informat,53,9.26923076923077,31.134615384615387
+Birchip T,51,5.421052631578948,28.210526315789473
+
+Winner: Jakkalberry Finn
+        
+          (N, 
+Points: 44.375
+
+
+Race: 6,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/xmas-parties-at-ieec-class-1-plate-race-6,
+Horse, Rating, Win rate, Avg 
+Burgundy Ru,56,12.222222222222221,34.111111111111114
+Private Chee,65,16.0,40.5
+Beating D,48,5.380952380952381,26.69047619047619
+Collateral ,55,12.625,33.8125
+Rations
+        
+          (N,61,17.142857142857142,39.07142857142857
+Sienna's Aw,54,7.294117647058823,30.647058823529413
+Sun,60,15.125,37.5625
+Swahili ,56,10.090909090909092,33.04545454545455
+ All Too Qu,59,33.333333333333336,46.16666666666667
+ Colleagues
+        
+          (N,0,0.0,0.0
+Arriverderci R,51,4.333333333333333,27.666666666666668
+
+Winner:  All Too Qu, 
+Points: 46.16666666666667
+
+
+Race: 7,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/wwwieeccomau-benchmark-72-handicap-race-7,
+Horse, Rating, Win rate, Avg 
+Getyourgre,77,28.38888888888889,52.69444444444444
+Raging P,75,19.77777777777778,47.388888888888886
+Octav,70,20.451612903225808,45.225806451612904
+Arthur In Cha,69,19.636363636363637,44.31818181818182
+Maddi,70,21.09375,45.546875
+Spokes,66,16.36842105263158,41.18421052631579
+Toujours L'am,69,984.0645161290323,526.5322580645161
+Blazing ,68,22.357142857142858,45.17857142857143
+ Why We Dr,66,42.857142857142854,54.42857142857143
+ In Great ,58,9.375,33.6875
+Xant,72,21.6,46.8
+
+Winner: Toujours L'am, 
+Points: 526.5322580645161
+
+
+Race: 1,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/crime-stoppers-ipswich-qtis-three-year-old-maiden-handicap-race-1,
+Horse, Rating, Win rate, Avg 
+Buin R,0,0.0,0.0
+Eureka B,0,0.0,0.0
+Rip Whee,0,0.0,0.0
+Chief Ar,0,2.5,1.25
+De,0,3.3333333333333335,1.6666666666666667
+Ready For Anyth,0,0.0,0.0
+Chatty L,0,1.0,0.5
+Da Party ,0,1.0,0.5
+Ishouldbesolu,0,0.0,0.0
+
+Winner: De, 
+Points: 1.6666666666666667
+
+
+Race: 2,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/surreal-signs-maiden-plate-race-2,
+Horse, Rating, Win rate, Avg 
+Anar,0,0.25,0.125
+Doctor J,0,5.0,2.5
+Kabal,0,2.357142857142857,1.1785714285714286
+Mishani Van,0,0.8125,0.40625
+Off R,0,1.0,0.5
+The Power Of ,0,1.9166666666666667,0.9583333333333334
+Wayne's Gam,0,0.0,0.0
+Bean A Wh,0,0.25,0.125
+Dot,0,0.0,0.0
+ My Oddette
+        
+          (N,0,5.5,2.75
+ Da Party ,0,1.0,0.5
+
+Winner:  My Oddette
+        
+          (N, 
+Points: 2.75
+
+
+Race: 3,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/river-949fm-class-3-handicap-race-3,
+Horse, Rating, Win rate, Avg 
+Frederick The D,70,21.90909090909091,45.95454545454545
+Joy Too ,70,62.0,66.0
+Better Than B,68,20.866666666666667,44.43333333333334
+Copper Sun,63,33.333333333333336,48.16666666666667
+Gl,63,17.1,40.05
+Uno A,65,15.428571428571429,40.214285714285715
+Drat,58,13.875,35.9375
+
+Winner: Joy Too , 
+Points: 66.0
+
+
+Race: 4,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/barn-family-restaurant-class-5-plate-race-4,
+Horse, Rating, Win rate, Avg 
+There You ,73,22.5,47.75
+Dalt,74,29.533333333333335,51.766666666666666
+Dragon M,74,27.333333333333332,50.666666666666664
+Zoulou Dan,69,15.216216216216216,42.108108108108105
+Astro Boy ,72,44.42857142857143,58.214285714285715
+Mccovey C,72,33.2,52.6
+Joy Too ,70,62.0,66.0
+
+Winner: Joy Too , 
+Points: 66.0
+
+
+Race: 5,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/sunday-brunch-at-the-barn-class-2-handicap-race-5,
+Horse, Rating, Win rate, Avg 
+Acca,62,12.3,37.15
+Jakkalberry Finn
+        
+          (N,61,27.75,44.375
+L,59,16.666666666666668,37.833333333333336
+Northern Woods
+        
+          (N,57,7.75,32.375
+Nube Viaj,57,15.071428571428571,36.035714285714285
+Dream S,58,11.666666666666666,34.833333333333336
+Inside Informat,53,9.26923076923077,31.134615384615387
+Birchip T,51,5.421052631578948,28.210526315789473
+
+Winner: Jakkalberry Finn
+        
+          (N, 
+Points: 44.375
+
+
+Race: 6,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/xmas-parties-at-ieec-class-1-plate-race-6,
+Horse, Rating, Win rate, Avg 
+Burgundy Ru,56,12.222222222222221,34.111111111111114
+Private Chee,65,16.0,40.5
+Beating D,48,5.380952380952381,26.69047619047619
+Collateral ,55,12.625,33.8125
+Rations
+        
+          (N,61,17.142857142857142,39.07142857142857
+Sienna's Aw,54,7.294117647058823,30.647058823529413
+Sun,60,15.125,37.5625
+Swahili ,56,10.090909090909092,33.04545454545455
+ All Too Qu,59,33.333333333333336,46.16666666666667
+ Colleagues
+        
+          (N,0,0.0,0.0
+Arriverderci R,51,4.333333333333333,27.666666666666668
+
+Winner:  All Too Qu, 
+Points: 46.16666666666667
+
+
+Race: 1,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/crime-stoppers-ipswich-qtis-three-year-old-maiden-handicap-race-1,
+Horse, Rating, Win rate, Avg 
+Buin R,0,0.0,0.0
+Eureka B,0,0.0,0.0
+Rip Whee,0,0.0,0.0
+Chief Ar,0,2.5,1.25
+De,0,3.3333333333333335,1.6666666666666667
+Ready For Anyth,0,0.0,0.0
+Chatty L,0,1.0,0.5
+Da Party ,0,1.0,0.5
+Ishouldbesolu,0,0.0,0.0
+
+Winner: De, 
+Points: 1.6666666666666667
+
+
+Race: 7,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/wwwieeccomau-benchmark-72-handicap-race-7,
+Horse, Rating, Win rate, Avg 
+Getyourgre,77,28.38888888888889,52.69444444444444
+Raging P,75,19.77777777777778,47.388888888888886
+Octav,70,20.451612903225808,45.225806451612904
+Arthur In Cha,69,19.636363636363637,44.31818181818182
+Maddi,70,21.09375,45.546875
+Spokes,66,16.36842105263158,41.18421052631579
+Toujours L'am,69,984.0645161290323,526.5322580645161
+Blazing ,68,22.357142857142858,45.17857142857143
+ Why We Dr,66,42.857142857142854,54.42857142857143
+ In Great ,58,9.375,33.6875
+Xant,72,21.6,46.8
+
+Winner: Toujours L'am, 
+Points: 526.5322580645161
+
+
+Race: 2,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/surreal-signs-maiden-plate-race-2,
+Horse, Rating, Win rate, Avg 
+Anar,0,0.25,0.125
+Doctor J,0,5.0,2.5
+Kabal,0,2.357142857142857,1.1785714285714286
+Mishani Van,0,0.8125,0.40625
+Off R,0,1.0,0.5
+The Power Of ,0,1.9166666666666667,0.9583333333333334
+Wayne's Gam,0,0.0,0.0
+Bean A Wh,0,0.25,0.125
+Dot,0,0.0,0.0
+ My Oddette
+        
+          (N,0,5.5,2.75
+ Da Party ,0,1.0,0.5
+
+Winner:  My Oddette
+        
+          (N, 
+Points: 2.75
+
+
+Race: 3,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/river-949fm-class-3-handicap-race-3,
+Horse, Rating, Win rate, Avg 
+Frederick The D,70,21.90909090909091,45.95454545454545
+Joy Too ,70,62.0,66.0
+Better Than B,68,20.866666666666667,44.43333333333334
+Copper Sun,63,33.333333333333336,48.16666666666667
+Gl,63,17.1,40.05
+Uno A,65,15.428571428571429,40.214285714285715
+Drat,58,13.875,35.9375
+
+Winner: Joy Too , 
+Points: 66.0
+
+
+Race: 4,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/barn-family-restaurant-class-5-plate-race-4,
+Horse, Rating, Win rate, Avg 
+There You ,73,22.5,47.75
+Dalt,74,29.533333333333335,51.766666666666666
+Dragon M,74,27.333333333333332,50.666666666666664
+Zoulou Dan,69,15.216216216216216,42.108108108108105
+Astro Boy ,72,44.42857142857143,58.214285714285715
+Mccovey C,72,33.2,52.6
+Joy Too ,70,62.0,66.0
+
+Winner: Joy Too , 
+Points: 66.0
+
+
+Race: 5,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/sunday-brunch-at-the-barn-class-2-handicap-race-5,
+Horse, Rating, Win rate, Avg 
+Acca,62,12.3,37.15
+Jakkalberry Finn
+        
+          (N,61,27.75,44.375
+L,59,16.666666666666668,37.833333333333336
+Northern Woods
+        
+          (N,57,7.75,32.375
+Nube Viaj,57,15.071428571428571,36.035714285714285
+Dream S,58,11.666666666666666,34.833333333333336
+Inside Informat,53,9.26923076923077,31.134615384615387
+Birchip T,51,5.421052631578948,28.210526315789473
+
+Winner: Jakkalberry Finn
+        
+          (N, 
+Points: 44.375
+
+
+Race: 6,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/xmas-parties-at-ieec-class-1-plate-race-6,
+Horse, Rating, Win rate, Avg 
+Burgundy Ru,56,12.222222222222221,34.111111111111114
+Private Chee,65,16.0,40.5
+Beating D,48,5.380952380952381,26.69047619047619
+Collateral ,55,12.625,33.8125
+Rations
+        
+          (N,61,17.142857142857142,39.07142857142857
+Sienna's Aw,54,7.294117647058823,30.647058823529413
+Sun,60,15.125,37.5625
+Swahili ,56,10.090909090909092,33.04545454545455
+ All Too Qu,59,33.333333333333336,46.16666666666667
+ Colleagues
+        
+          (N,0,0.0,0.0
+Arriverderci R,51,4.333333333333333,27.666666666666668
+
+Winner:  All Too Qu, 
+Points: 46.16666666666667
+
+
+Race: 7,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/wwwieeccomau-benchmark-72-handicap-race-7,
+Horse, Rating, Win rate, Avg 
+Getyourgre,77,28.38888888888889,52.69444444444444
+Raging P,75,19.77777777777778,47.388888888888886
+Octav,70,20.451612903225808,45.225806451612904
+Arthur In Cha,69,19.636363636363637,44.31818181818182
+Maddi,70,21.09375,45.546875
+Spokes,66,16.36842105263158,41.18421052631579
+Toujours L'am,69,984.0645161290323,526.5322580645161
+Blazing ,68,22.357142857142858,45.17857142857143
+ Why We Dr,66,42.857142857142854,54.42857142857143
+ In Great ,58,9.375,33.6875
+Xant,72,21.6,46.8
+
+Winner: Toujours L'am, 
+Points: 526.5322580645161
+
+
+Race: 1,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/crime-stoppers-ipswich-qtis-three-year-old-maiden-handicap-race-1,
+Horse, Rating, Win rate, Avg 
+Buin R,0,0.0,0.0
+Eureka B,0,0.0,0.0
+Rip Whee,0,0.0,0.0
+Chief Ar,0,2.5,1.25
+De,0,3.3333333333333335,1.6666666666666667
+Ready For Anyth,0,0.0,0.0
+Chatty L,0,1.0,0.5
+Da Party ,0,1.0,0.5
+Ishouldbesolu,0,0.0,0.0
+
+Winner: De, 
+Points: 1.6666666666666667
+
+
+Race: 2,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/surreal-signs-maiden-plate-race-2,
+Horse, Rating, Win rate, Avg 
+Anar,0,0.25,0.125
+Doctor J,0,5.0,2.5
+Kabal,0,2.357142857142857,1.1785714285714286
+Mishani Van,0,0.8125,0.40625
+Off R,0,1.0,0.5
+The Power Of ,0,1.9166666666666667,0.9583333333333334
+Wayne's Gam,0,0.0,0.0
+Bean A Wh,0,0.25,0.125
+Dot,0,0.0,0.0
+ My Oddette
+        
+          (N,0,5.5,2.75
+ Da Party ,0,1.0,0.5
+
+Winner:  My Oddette
+        
+          (N, 
+Points: 2.75
+
+
+Race: 3,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/river-949fm-class-3-handicap-race-3,
+Horse, Rating, Win rate, Avg 
+Frederick The D,70,21.90909090909091,45.95454545454545
+Joy Too ,70,62.0,66.0
+Better Than B,68,20.866666666666667,44.43333333333334
+Copper Sun,63,33.333333333333336,48.16666666666667
+Gl,63,17.1,40.05
+Uno A,65,15.428571428571429,40.214285714285715
+Drat,58,13.875,35.9375
+
+Winner: Joy Too , 
+Points: 66.0
+
+
+Race: 4,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/barn-family-restaurant-class-5-plate-race-4,
+Horse, Rating, Win rate, Avg 
+There You ,73,22.5,47.75
+Dalt,74,29.533333333333335,51.766666666666666
+Dragon M,74,27.333333333333332,50.666666666666664
+Zoulou Dan,69,15.216216216216216,42.108108108108105
+Astro Boy ,72,44.42857142857143,58.214285714285715
+Mccovey C,72,33.2,52.6
+Joy Too ,70,62.0,66.0
+
+Winner: Joy Too , 
+Points: 66.0
+
+
+Race: 5,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/sunday-brunch-at-the-barn-class-2-handicap-race-5,
+Horse, Rating, Win rate, Avg 
+Acca,62,12.3,37.15
+Jakkalberry Finn
+        
+          (N,61,27.75,44.375
+L,59,16.666666666666668,37.833333333333336
+Northern Woods
+        
+          (N,57,7.75,32.375
+Nube Viaj,57,15.071428571428571,36.035714285714285
+Dream S,58,11.666666666666666,34.833333333333336
+Inside Informat,53,9.26923076923077,31.134615384615387
+Birchip T,51,5.421052631578948,28.210526315789473
+
+Winner: Jakkalberry Finn
+        
+          (N, 
+Points: 44.375
+
+
+Race: 6,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/xmas-parties-at-ieec-class-1-plate-race-6,
+Horse, Rating, Win rate, Avg 
+Burgundy Ru,56,12.222222222222221,34.111111111111114
+Private Chee,65,16.0,40.5
+Beating D,48,5.380952380952381,26.69047619047619
+Collateral ,55,12.625,33.8125
+Rations
+        
+          (N,61,17.142857142857142,39.07142857142857
+Sienna's Aw,54,7.294117647058823,30.647058823529413
+Sun,60,15.125,37.5625
+Swahili ,56,10.090909090909092,33.04545454545455
+ All Too Qu,59,33.333333333333336,46.16666666666667
+ Colleagues
+        
+          (N,0,0.0,0.0
+Arriverderci R,51,4.333333333333333,27.666666666666668
+
+Winner:  All Too Qu, 
+Points: 46.16666666666667
+
+
+Race: 7,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/wwwieeccomau-benchmark-72-handicap-race-7,
+Horse, Rating, Win rate, Avg 
+Getyourgre,77,28.38888888888889,52.69444444444444
+Raging P,75,19.77777777777778,47.388888888888886
+Octav,70,20.451612903225808,45.225806451612904
+Arthur In Cha,69,19.636363636363637,44.31818181818182
+Maddi,70,21.09375,45.546875
+Spokes,66,16.36842105263158,41.18421052631579
+Toujours L'am,69,984.0645161290323,526.5322580645161
+Blazing ,68,22.357142857142858,45.17857142857143
+ Why We Dr,66,42.857142857142854,54.42857142857143
+ In Great ,58,9.375,33.6875
+Xant,72,21.6,46.8
+
+Winner: Toujours L'am, 
+Points: 526.5322580645161
+
+
+Race: 1,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/crime-stoppers-ipswich-qtis-three-year-old-maiden-handicap-race-1,
+Horse, Rating, Win rate, Avg 
+Buin R,0,0.0,0.0
+Eureka B,0,0.0,0.0
+Rip Whee,0,0.0,0.0
+Chief Ar,0,2.5,1.25
+De,0,3.3333333333333335,1.6666666666666667
+Ready For Anyth,0,0.0,0.0
+Chatty L,0,1.0,0.5
+Da Party ,0,1.0,0.5
+Ishouldbesolu,0,0.0,0.0
+
+Winner: De, 
+Points: 1.6666666666666667
+
+
+Race: 2,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/surreal-signs-maiden-plate-race-2,
+Horse, Rating, Win rate, Avg 
+Anar,0,0.25,0.125
+Doctor J,0,5.0,2.5
+Kabal,0,2.357142857142857,1.1785714285714286
+Mishani Van,0,0.8125,0.40625
+Off R,0,1.0,0.5
+The Power Of ,0,1.9166666666666667,0.9583333333333334
+Wayne's Gam,0,0.0,0.0
+Bean A Wh,0,0.25,0.125
+Dot,0,0.0,0.0
+ My Oddette
+        
+          (N,0,5.5,2.75
+ Da Party ,0,1.0,0.5
+
+Winner:  My Oddette
+        
+          (N, 
+Points: 2.75
+
+
+Race: 3,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/river-949fm-class-3-handicap-race-3,
+Horse, Rating, Win rate, Avg 
+Frederick The D,70,21.90909090909091,45.95454545454545
+Joy Too ,70,62.0,66.0
+Better Than B,68,20.866666666666667,44.43333333333334
+Copper Sun,63,33.333333333333336,48.16666666666667
+Gl,63,17.1,40.05
+Uno A,65,15.428571428571429,40.214285714285715
+Drat,58,13.875,35.9375
+
+Winner: Joy Too , 
+Points: 66.0
+
+
+Race: 4,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/barn-family-restaurant-class-5-plate-race-4,
+Horse, Rating, Win rate, Avg 
+There You ,73,22.5,47.75
+Dalt,74,29.533333333333335,51.766666666666666
+Dragon M,74,27.333333333333332,50.666666666666664
+Zoulou Dan,69,15.216216216216216,42.108108108108105
+Astro Boy ,72,44.42857142857143,58.214285714285715
+Mccovey C,72,33.2,52.6
+Joy Too ,70,62.0,66.0
+
+Winner: Joy Too , 
+Points: 66.0
+
+
+Race: 5,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/sunday-brunch-at-the-barn-class-2-handicap-race-5,
+Horse, Rating, Win rate, Avg 
+Acca,62,12.3,37.15
+Jakkalberry Finn
+        
+          (N,61,27.75,44.375
+L,59,16.666666666666668,37.833333333333336
+Northern Woods
+        
+          (N,57,7.75,32.375
+Nube Viaj,57,15.071428571428571,36.035714285714285
+Dream S,58,11.666666666666666,34.833333333333336
+Inside Informat,53,9.26923076923077,31.134615384615387
+Birchip T,51,5.421052631578948,28.210526315789473
+
+Winner: Jakkalberry Finn
+        
+          (N, 
+Points: 44.375
+
+
+Race: 6,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/xmas-parties-at-ieec-class-1-plate-race-6,
+Horse, Rating, Win rate, Avg 
+Burgundy Ru,56,12.222222222222221,34.111111111111114
+Private Chee,65,16.0,40.5
+Beating D,48,5.380952380952381,26.69047619047619
+Collateral ,55,12.625,33.8125
+Rations
+        
+          (N,61,17.142857142857142,39.07142857142857
+Sienna's Aw,54,7.294117647058823,30.647058823529413
+Sun,60,15.125,37.5625
+Swahili ,56,10.090909090909092,33.04545454545455
+ All Too Qu,59,33.333333333333336,46.16666666666667
+ Colleagues
+        
+          (N,0,0.0,0.0
+Arriverderci R,51,4.333333333333333,27.666666666666668
+
+Winner:  All Too Qu, 
+Points: 46.16666666666667
+
+
+Race: 7,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/wwwieeccomau-benchmark-72-handicap-race-7,
+Horse, Rating, Win rate, Avg 
+Getyourgre,77,28.38888888888889,52.69444444444444
+Raging P,75,19.77777777777778,47.388888888888886
+Octav,70,20.451612903225808,45.225806451612904
+Arthur In Cha,69,19.636363636363637,44.31818181818182
+Maddi,70,21.09375,45.546875
+Spokes,66,16.36842105263158,41.18421052631579
+Toujours L'am,69,984.0645161290323,526.5322580645161
+Blazing ,68,22.357142857142858,45.17857142857143
+ Why We Dr,66,42.857142857142854,54.42857142857143
+ In Great ,58,9.375,33.6875
+Xant,72,21.6,46.8
+
+Winner: Toujours L'am, 
+Points: 526.5322580645161
+
+
+Race: 1,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/crime-stoppers-ipswich-qtis-three-year-old-maiden-handicap-race-1,
+Horse, Rating, Win rate, Avg 
+Buin R,0,0.0,0.0
+Eureka B,0,0.0,0.0
+Rip Whee,0,0.0,0.0
+Chief Ar,0,2.5,1.25
+De,0,3.3333333333333335,1.6666666666666667
+Ready For Anyth,0,0.0,0.0
+Chatty L,0,1.0,0.5
+Da Party ,0,1.0,0.5
+Ishouldbesolu,0,0.0,0.0
+
+Winner: De, 
+Points: 1.6666666666666667
+
+
+Race: 2,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/surreal-signs-maiden-plate-race-2,
+Horse, Rating, Win rate, Avg 
+Anar,0,0.25,0.125
+Doctor J,0,5.0,2.5
+Kabal,0,2.357142857142857,1.1785714285714286
+Mishani Van,0,0.8125,0.40625
+Off R,0,1.0,0.5
+The Power Of ,0,1.9166666666666667,0.9583333333333334
+Wayne's Gam,0,0.0,0.0
+Bean A Wh,0,0.25,0.125
+Dot,0,0.0,0.0
+ My Oddette
+        
+          (N,0,5.5,2.75
+ Da Party ,0,1.0,0.5
+
+Winner:  My Oddette
+        
+          (N, 
+Points: 2.75
+
+
+Race: 3,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/river-949fm-class-3-handicap-race-3,
+Horse, Rating, Win rate, Avg 
+Frederick The D,70,21.90909090909091,45.95454545454545
+Joy Too ,70,62.0,66.0
+Better Than B,68,20.866666666666667,44.43333333333334
+Copper Sun,63,33.333333333333336,48.16666666666667
+Gl,63,17.1,40.05
+Uno A,65,15.428571428571429,40.214285714285715
+Drat,58,13.875,35.9375
+
+Winner: Joy Too , 
+Points: 66.0
+
+
+Race: 4,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/barn-family-restaurant-class-5-plate-race-4,
+Horse, Rating, Win rate, Avg 
+There You ,73,22.5,47.75
+Dalt,74,29.533333333333335,51.766666666666666
+Dragon M,74,27.333333333333332,50.666666666666664
+Zoulou Dan,69,15.216216216216216,42.108108108108105
+Astro Boy ,72,44.42857142857143,58.214285714285715
+Mccovey C,72,33.2,52.6
+Joy Too ,70,62.0,66.0
+
+Winner: Joy Too , 
+Points: 66.0
+
+
+Race: 5,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/sunday-brunch-at-the-barn-class-2-handicap-race-5,
+Horse, Rating, Win rate, Avg 
+Acca,62,12.3,37.15
+Jakkalberry Finn
+        
+          (N,61,27.75,44.375
+L,59,16.666666666666668,37.833333333333336
+Northern Woods
+        
+          (N,57,7.75,32.375
+Nube Viaj,57,15.071428571428571,36.035714285714285
+Dream S,58,11.666666666666666,34.833333333333336
+Inside Informat,53,9.26923076923077,31.134615384615387
+Birchip T,51,5.421052631578948,28.210526315789473
+
+Winner: Jakkalberry Finn
+        
+          (N, 
+Points: 44.375
+
+
+Race: 6,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/xmas-parties-at-ieec-class-1-plate-race-6,
+Horse, Rating, Win rate, Avg 
+Burgundy Ru,56,12.222222222222221,34.111111111111114
+Private Chee,65,16.0,40.5
+Beating D,48,5.380952380952381,26.69047619047619
+Collateral ,55,12.625,33.8125
+Rations
+        
+          (N,61,17.142857142857142,39.07142857142857
+Sienna's Aw,54,7.294117647058823,30.647058823529413
+Sun,60,15.125,37.5625
+Swahili ,56,10.090909090909092,33.04545454545455
+ All Too Qu,59,33.333333333333336,46.16666666666667
+ Colleagues
+        
+          (N,0,0.0,0.0
+Arriverderci R,51,4.333333333333333,27.666666666666668
+
+Winner:  All Too Qu, 
+Points: 46.16666666666667
+
+
+Race: 7,https://www.racenet.com.au/form-guide/horse-racing/ipswich-20211110/wwwieeccomau-benchmark-72-handicap-race-7,
+Horse, Rating, Win rate, Avg 
+Getyourgre,77,28.38888888888889,52.69444444444444
+Raging P,75,19.77777777777778,47.388888888888886
+Octav,70,20.451612903225808,45.225806451612904
+Arthur In Cha,69,19.636363636363637,44.31818181818182
+Maddi,70,21.09375,45.546875
+Spokes,66,16.36842105263158,41.18421052631579
+Toujours L'am,69,984.0645161290323,526.5322580645161
+Blazing ,68,22.357142857142858,45.17857142857143
+ Why We Dr,66,42.857142857142854,54.42857142857143
+ In Great ,58,9.375,33.6875
+Xant,72,21.6,46.8
+
+Winner: Toujours L'am, 
+Points: 526.5322580645161
+
+
